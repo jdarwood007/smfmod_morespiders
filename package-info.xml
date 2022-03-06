@@ -4,7 +4,7 @@
 	<name>More Spiders</name>
 	<id>karlbenson:morespiders</id>
 	<type>modification</type>
-	<version>1.3</version>
+	<version>1.3.1</version>
 	
 	<!--// Upgrade  (from earlier version of the mod) //-->
 	<upgrade for="1.0 - 1.2">
@@ -13,7 +13,7 @@
 	</upgrade>
 
 	<!--// Install  //-->
-	<install>
+	<install for="2.0.*, 2.1.*">
 		<readme type="file" parsebbc="true">readme.txt</readme>
 		<code>AddMoreSpiders.php</code>
 	</install>

@@ -1,5 +1,5 @@
 [size=4]MORE SPIDERS[/size]
-[url=https://custom.simplemachines.org/mods/index.php?action=profile;u=63186]By Karl Benson[/url] | [url=https://custom.simplemachines.org/mods/index.php?mod=1157]Link to Customization[/url] | [url=https://www.simplemachines.org/community/index.php?topic=233636]Support Topic[/url]
+[url=https://custom.simplemachines.org/index.php?action=profile;u=63186]By Karl Benson[/url] | [url=https://custom.simplemachines.org/mods/index.php?mod=1157]Link to Customization[/url] | [url=https://www.simplemachines.org/community/index.php?topic=233636]Support Topic[/url]
 
 [size=3]Introduction[/size]
 Adds 88 more spiders/crawlers/bots to your Spiders section in SMF
